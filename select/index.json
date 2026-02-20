@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふんわりSlowly (2021 Remastered Version)",
+  "base_artist": "スーパークリーク (CV. 優木かな)",
+  "createdAt": "2026-02-20T05:00:58.303978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふんわりSlowly (2021 Remastered Version)",
+      "artist": "スーパークリーク (CV. 優木かな)",
+      "has_synced": false,
+      "path": "select/pl_01_ふんわりSlowly_(2021_Remastered_Version)_スーパークリーク_(CV._優木かな).txt"
+    }
+  ]
+}
